@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "石斑魚刺身",
+    "english": "Grouper Sashimi",
+    "description": "【經典生食】取用魚腹油脂最豐富的部位，冰鎮切片，口感晶瑩彈牙，品嚐大海最原始的鮮甜。",
+    "image": "assets/images/dishes/sashimi.jpg",
+    "category": "前菜",
+    "price": "$680"
+  },
+  {
+    "id": 2,
+    "name": "清蒸石斑魚",
+    "english": "Steamed Grouper",
+    "description": "【鮮嫩首選】使用新鮮石斑中段，搭配蔥絲與破布子清蒸，最後淋上熱油激發香氣，魚肉細嫩多汁。",
+    "image": "assets/images/dishes/steamed-fish.png",
+    "category": "主菜",
+    "price": "$1280"
+  },
+  {
+    "id": 3,
+    "name": "膠質魚頭火鍋",
+    "english": "Grouper Hotpot",
+    "description": "【暖胃湯品】將魚頭煎香後慢火熬煮成奶白高湯，富含滿滿膠原蛋白，搭配季節時蔬，濃郁回甘。",
+    "image": "assets/images/dishes/fish-hotpot.png",
+    "category": "鍋物",
+    "price": "$1680"
+  },
+  {
+    "id": 4,
+    "name": "古早味三杯石斑",
+    "english": "Three-Cup Grouper",
+    "description": "【台式熱炒】以麻油、醬油、米酒大火快炒，加入九層塔提香，鹹香下飯，石斑肉質緊實Q彈。",
+    "image": "assets/images/dishes/three-cup-fish.jpg",
+    "category": "主菜",
+    "price": "$980"
+  },
+  {
+    "id": 5,
+    "name": "糖醋松鼠石斑",
+    "english": "Sweet and Sour Fish",
+    "description": "【酥脆酸甜】展現精湛刀工，將魚肉炸至外酥內嫩如花朵綻放，淋上特製酸甜果香醬汁，老少咸宜。",
+    "image": "assets/images/dishes/sweet-sour-fish.jpg",
+    "category": "主菜",
+    "price": "$1180"
+  },
+  {
+    "id": 6,
+    "name": "鹽烤石斑菲力",
+    "english": "Salt Grilled Grouper",
+    "description": "【原味火烤】厚切石斑菲力，簡單灑上海鹽慢火炭烤，表皮金黃酥脆，鎖住魚肉鮮甜肉汁。",
+    "image": "assets/images/dishes/grilled-fish.avif",
+    "category": "烤物",
+    "price": "$880"
+  },
+  {
+    "id": 7,
+    "name": "紅燒豆腐石斑煲",
+    "english": "Braised Grouper with Tofu",
+    "description": "【濃郁醬香】先炸後燒，讓魚肉吸飽醬汁，搭配滑嫩的雞蛋豆腐，是記憶中的家常美味。",
+    "image": "assets/images/dishes/braised-fish.webp",
+    "category": "主菜",
+    "price": "$920"
+  },
+  {
+    "id": 8,
+    "name": "極品石斑海鮮粥",
+    "english": "Grouper Seafood Congee",
+    "description": "【鮮美主食】以魚骨高湯熬煮生米，加入蛤蜊、鮮蚵與石斑魚片，每一口都充滿海洋精華。",
+    "image": "assets/images/dishes/seafood-congee.avif",
+    "category": "主食",
+    "price": "$580"
+  }
+]

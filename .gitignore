@@ -1,0 +1,9 @@
+# 忽略系統檔案
+.DS_Store
+
+# 忽略 Node.js 套件包 (Render 會自己裝，不用上傳)
+node_modules/
+backend/node_modules/
+
+# 忽略 Log 檔
+*.log

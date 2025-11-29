@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>℃斑 × 王｜菜單</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="nav">
+    <div class="brand">℃斑 × 王</div>
+    <button class="hamburger" id="hamburger">☰</button>
+    <nav id="nav-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="fish.html">Fish</a>
+      <a href="menu.html" class="active">Menu</a>
+      <a href="reserve.html">Reserve</a>
+    </nav>
+  </header>
+
+  <main class="section page">
+    <h1>料理特色與菜單</h1>
+
+    <div class="three-columns" style="margin-bottom: 60px;">
+      
+      <div class="card">
+        <div style="width: 100%; aspect-ratio: 4/3; background-image: url('assets/images/dishes/feature-sashimi.jpg'); background-size: cover; background-position: center; border-radius: 8px; margin-bottom: 16px;"></div>
+        
+        <p class="eyebrow">前菜</p>
+        <h3>刺身 / 炙燒</h3>
+        <p style="color: #ccc; line-height: 1.6;">取用魚腹油脂最豐富的部位，冰鎮鎖住鮮甜，或以火焰微炙逼出脂香，展現石斑魚最原始的海味。</p>
+      </div>
+
+      <div class="card">
+        <div style="width: 100%; aspect-ratio: 4/3; background-image: url('assets/images/dishes/feature-steamed.png'); background-size: cover; background-position: center; border-radius: 8px; margin-bottom: 16px;"></div>
+
+        <p class="eyebrow">主菜</p>
+        <h3>清蒸 / 蔥燒 / 油淋</h3>
+        <p style="color: #ccc; line-height: 1.6;">選用中段魚身，肉質紋理分明且彈牙。無論是清蒸保留原味，或是高溫油淋激發香氣，都是經典美味。</p>
+      </div>
+
+      <div class="card">
+        <div style="width: 100%; aspect-ratio: 4/3; background-image: url('assets/images/dishes/feature-hotpot.png'); background-size: cover; background-position: center; border-radius: 8px; margin-bottom: 16px;"></div>
+
+        <p class="eyebrow">鍋物</p>
+        <h3>膠質濃湯火鍋</h3>
+        <p style="color: #ccc; line-height: 1.6;">利用魚頭、魚骨與魚尾慢火熬煮，湯頭呈現奶白色，富含豐富膠質。在享用完魚肉後，暖胃又回甘。</p>
+      </div>
+
+    </div>
+
+    <h2 style="margin-bottom: 24px; font-family: var(--serif);">完整菜單</h2>
+    <div id="menu-list" class="menu-list"></div>
+    <div id="menu-status" class="muted"></div>
+  </main>
+
+  <footer class="footer">
+    <div>℃斑 × 王｜活魚料理餐廳</div>
+    <div>地址：台北市信義區海味路 88 號｜電話：02-1234-5678｜營業：11:30 - 22:00</div>
+    <div>© 2024 C°BAN × WANG</div>
+  </footer>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/menu.js"></script>
+</body>
+</html>

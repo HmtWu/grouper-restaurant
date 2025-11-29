@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>℃斑 × 王｜後台管理</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    /* 針對後台表格的簡單樣式 */
+    .table-container { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; min-width: 600px; }
+    th, td { text-align: left; padding: 12px; border-bottom: 1px solid rgba(255,255,255,0.1); }
+    th { color: var(--accent); font-weight: bold; border-bottom: 2px solid var(--accent); }
+    tr:hover { background: rgba(255,255,255,0.05); }
+    .btn-delete { 
+      background: rgba(255, 107, 107, 0.2); 
+      color: #ff6b6b; 
+      border: 1px solid #ff6b6b; 
+      padding: 4px 12px; 
+      border-radius: 4px; 
+      cursor: pointer;
+      font-size: 0.9em;
+    }
+    .btn-delete:hover { background: #ff6b6b; color: #fff; }
+  </style>
+</head>
+<body>
+  <header class="nav">
+    <div class="brand">後台管理系統</div>
+    <nav id="nav-links">
+      <a href="index.html">回前台首頁</a>
+    </nav>
+  </header>
+
+  <main class="section page">
+    <h1>訂位列表</h1>
+    
+    <div class="card">
+      <div class="table-container">
+        <table id="reservation-table">
+          <thead>
+            <tr>
+              <th>日期</th>
+              <th>時間</th>
+              <th>姓名</th>
+              <th>人數</th>
+              <th>電話</th>
+              <th>操作</th>
+            </tr>
+          </thead>
+          <tbody id="admin-list">
+            </tbody>
+        </table>
+      </div>
+      <div id="admin-status" class="muted" style="margin-top: 16px;"></div>
+    </div>
+  </main>
+
+  <script src="assets/js/admin.js"></script>
+</body>
+</html>

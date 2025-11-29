@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "青石斑魚",
+    "taste": "肉質細嫩，油脂適中",
+    "cooking": ["清蒸", "煮湯"],
+    "description": "常見的高經濟價值魚種，體色呈青褐色，口感鮮美，適合各種家庭料理。",
+    "image": "/assets/images/fish/青石斑魚.jpg"
+  },
+  {
+    "id": 2,
+    "name": "布氏石斑魚",
+    "taste": "肉質紮實，風味獨特",
+    "cooking": ["紅燒", "乾煎"],
+    "description": "又稱「芝麻斑」，身上布滿細小斑點，肉質帶有彈性，適合重口味料理。",
+    "image": "/assets/images/fish/布氏石斑魚.jpg"
+  },
+  {
+    "id": 3,
+    "name": "褐帶石斑魚",
+    "taste": "皮厚Q彈，膠質豐富",
+    "cooking": ["清蒸", "紅燒"],
+    "description": "體表有明顯的褐色橫帶，肉質鮮甜，是餐廳常見的宴席魚種。",
+    "image": "/assets/images/fish/褐帶石斑魚.jpg"
+  },
+  {
+    "id": 4,
+    "name": "點帶石斑魚",
+    "taste": "肉質細緻，清甜無腥",
+    "cooking": ["清蒸", "油淋", "煮粥"],
+    "description": "俗稱「青斑」，是台灣養殖最普遍的石斑，價格親民且美味。",
+    "image": "/assets/images/fish/點帶石斑魚.jpg"
+  },
+  {
+    "id": 5,
+    "name": "斑帶石斑魚",
+    "taste": "口感層次豐富",
+    "cooking": ["紅燒", "蒜燒"],
+    "description": "體側有不規則的斑紋，肉質緊實，適合用於燒燴類料理。",
+    "image": "/assets/images/fish/斑帶石斑魚.jpg"
+  },
+  {
+    "id": 6,
+    "name": "橫帶石斑魚",
+    "taste": "肉質潔白，口感細滑",
+    "cooking": ["清蒸", "薑絲湯"],
+    "description": "體型較小，紅色體色帶有橫紋，肉質非常細嫩，適合清淡烹調。",
+    "image": "/assets/images/fish/橫帶石斑魚.jpg"
+  },
+  {
+    "id": 7,
+    "name": "棕點石斑魚 (老虎斑)",
+    "taste": "肉質細緻，風味清甜",
+    "cooking": ["清蒸", "刺身"],
+    "description": "俗稱「老虎斑」，肉質被認為是石斑魚中的上選，價格較高，廣受饕客喜愛。",
+    "image": "/assets/images/fish/棕點石斑魚.jpg"
+  },
+  {
+    "id": 8,
+    "name": "六角石斑魚",
+    "taste": "肉質結實，富有彈性",
+    "cooking": ["乾煎", "紅燒", "鹽烤"],
+    "description": "身上有明顯的六角形斑紋，肉質緊實，非常適合煎烤。",
+    "image": "/assets/images/fish/六角石斑魚.jpg"
+  },
+  {
+    "id": 9,
+    "name": "鞍帶石斑魚 (龍膽石斑)",
+    "taste": "皮極厚，膠原蛋白爆表",
+    "cooking": ["清蒸", "涮火鍋", "乾煎"],
+    "description": "石斑之王，體型巨大。魚皮厚實Q彈，是補充膠原蛋白的首選。",
+    "image": "/assets/images/fish/鞍帶石斑魚.jpg"
+  },
+  {
+    "id": 10,
+    "name": "瑪拉巴石斑魚",
+    "taste": "肉多刺少，口感豪邁",
+    "cooking": ["魚排", "紅燒", "砂鍋魚頭"],
+    "description": "體型較大，生長快速，肉量豐富，適合做成大份量的聚餐料理。",
+    "image": "/assets/images/fish/瑪拉巴石斑魚.jpg"
+  },
+  {
+    "id": 11,
+    "name": "網紋石斑魚",
+    "taste": "肉質鮮嫩，入口即化",
+    "cooking": ["清蒸", "煮湯"],
+    "description": "體表布滿網狀斑紋，肉質非常細緻，適合長者與小孩食用。",
+    "image": "/assets/images/fish/網紋石斑魚.jpg"
+  },
+  {
+    "id": 12,
+    "name": "玳瑁石斑魚",
+    "taste": "肉質甘甜，帶有海味",
+    "cooking": ["清蒸", "鹽烤"],
+    "description": "外觀獨特如玳瑁花紋，主要棲息於珊瑚礁區，肉質甘甜。",
+    "image": "/assets/images/fish/玳瑁石斑魚.jpg"
+  },
+  {
+    "id": 13,
+    "name": "霜點石斑魚",
+    "taste": "肉質細緻，風味雅緻",
+    "cooking": ["清蒸"],
+    "description": "身上有如霜降般的細點，肉質細緻，適合最簡單的清蒸以品嘗原味。",
+    "image": "/assets/images/fish/霜點石斑魚.jpg"
+  },
+  {
+    "id": 14,
+    "name": "藍身大斑石斑魚",
+    "taste": "口感紮實，肉質厚實",
+    "cooking": ["紅燒", "三杯"],
+    "description": "體色特殊，肉質厚實耐煮，適合三杯或重口味的烹調方式。",
+    "image": "/assets/images/fish/藍身大斑石斑魚.jpg"
+  },
+  {
+    "id": 15,
+    "name": "橫斑刺鰓鮨",
+    "taste": "肉質鮮美，口感滑嫩",
+    "cooking": ["清蒸", "刺身"],
+    "description": "屬於刺鰓鮨屬，顏色鮮豔，肉質與東星斑相近，非常美味。",
+    "image": "/assets/images/fish/橫斑刺鰓鮨.jpg"
+  },
+  {
+    "id": 16,
+    "name": "花斑刺鰓鮨 (七星斑)",
+    "taste": "肉質雪白，細嫩無腥味",
+    "cooking": ["清蒸", "刺身", "高湯"],
+    "description": "又稱東星斑、七星斑。顏色鮮豔呈紅色，是高級宴席與婚宴料理的頂級首選。",
+    "image": "/assets/images/fish/花斑刺鰓鮨.jpg"
+  }
+]
