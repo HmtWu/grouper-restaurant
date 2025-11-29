@@ -5,7 +5,7 @@
 ## 安裝與啟動
 1. 進入 backend：`cd backend`
 2. 安裝套件：`npm install`
-3. 啟動伺服器：`npm start`（預設 http://localhost:3000）
+3. 啟動伺服器：`npm start`（預設 https://grouper-restaurant.onrender.com/）
 4. 前端靜態檔由 Express 服務，路徑為 `/frontend`。
 
 API:
