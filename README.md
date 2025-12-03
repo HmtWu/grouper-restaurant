@@ -1,4 +1,4 @@
-# ℃斑 × 王 專案
+# 九斑十斑 專案
 
 極簡黑白高級風的活魚海鮮餐廳網站 + Node.js/Express REST API + JSON 假資料 + Mongoose Schema。
 
